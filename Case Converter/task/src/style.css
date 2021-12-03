@@ -1,0 +1,10 @@
+textarea {
+    width: 600px;
+}
+.title {
+    font-size: 24pt;
+}
+button {
+    padding: 10px;
+    background-color: coral;
+}
